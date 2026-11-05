@@ -1,0 +1,55 @@
+.aips-box .aips-intro {
+	margin-top: 0;
+}
+
+.aips-box .aips-actions {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	margin: 12px 0;
+}
+
+.aips-box #aips-spinner {
+	float: none;
+	margin: 0;
+}
+
+.aips-box .aips-status {
+	margin: 10px 0;
+	padding: 8px 12px;
+	background: #f6f7f7;
+	border-left: 4px solid #72aee6;
+}
+
+.aips-box .aips-status--ok {
+	border-left-color: #00a32a;
+}
+
+.aips-box .aips-status--warn {
+	border-left-color: #dba617;
+}
+
+.aips-box .aips-status--error {
+	border-left-color: #d63638;
+}
+
+.aips-box .aips-status--info {
+	border-left-color: #72aee6;
+}
+
+.aips-box .aips-result {
+	margin-top: 12px;
+}
+
+.aips-box .aips-result textarea {
+	width: 100%;
+	font-family: inherit;
+}
+
+.aips-box .aips-slug {
+	display: inline-block;
+	padding: 4px 8px;
+	background: #f0f0f1;
+	border-radius: 3px;
+	word-break: break-all;
+}

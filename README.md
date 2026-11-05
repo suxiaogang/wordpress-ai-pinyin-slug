@@ -1,1 +1,1 @@
-为 WordPress 生成 AI 拼音 slug 和摘要
+调用 OpenAI 兼容接口，为文章生成摘要和拼音 slug，并填入文章编辑页。
