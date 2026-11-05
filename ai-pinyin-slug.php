@@ -3,7 +3,7 @@
  * Plugin Name: AI 摘要与拼音 Slug
  * Description: 调用 OpenAI 兼容接口，为文章生成摘要和拼音 slug，并填入文章编辑页。
  * Version: 1.0.0
- * Requires at least: 6.0
+ * Requires at least: 5.9
  * Requires PHP: 7.4
  * Author: Sam Su
  * License: GPL-2.0-or-later
